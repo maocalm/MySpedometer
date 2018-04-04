@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pedometer</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_confirm_ok">OK</string>
+    <string name="daily_average">Rata-rata Per hari:</string>
+    <string name="female">Perempuan</string>
+    <string name="distance">Waktu</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="gender_desc">Dibutuhkan untuk perhitungan jumlah langkah</string>
+    <string name="gender_description">Untuk perhitungan kalori dan jumlah langkah.</string>
+    <string name="goal_ins_title">Target Langkah</string>
+    <string name="goal_with_value">Target: %s</string>
+    <string name="height">Tinggi</string>
+    <string name="height_desc">Dibutuhkan untuk perhitungan jarak dan kecepatan</string>
+    <string name="high">Tinggi</string>
+    <string name="history">Timeline</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Laki-Laki</string>
+    <string name="month">Bulan</string>
+    <string name="more">Lainnya</string>
+    <string name="next">Lanjut</string>
+    <string name="resume">Lanjutkan</string>
+    <string name="pause">Tunggu</string>
+    <string name="pedometer_preferences">Pengaturan Preferensi</string>
+    <string name="pg_permission_protect_app">Apl yang dilindungi</string>
+    <string name="pg_permission_dialog_sub_title">Untuk memastikan %s berfungsi dengan benar</string>
+    <string name="pg_permission_dialog_title">Izin Diperlukan</string>
+    <string name="profile">Profil Saya</string>
+    <string name="report">Laporan</string>
+    <string name="profile_description">Untuk memastikan keakuratan , silahkan masukan informasi yang benar. Kami tidak akan membagikan informasi anda dengan pihak ketiga.</string>
+
+
+    <string name="select_gender">Pilih Gender</string>
+    <string name="setting">Pengaturan</string>
+    <string name="sensitivity">Tingkat Sensitif</string>
+    <string name="speed">Kecepatan</string>
+    <string name="start">Mulai</string>
+    <string name="step">Langkah</string>
+    <string name="step_counter_notification">Bar Notifikasi</string>
+    <string name="steps">Langkah</string>
+    <string name="tab_calorie">Kalori</string>
+    <string name="tab_step">Langkah</string>
+    <string name="this_week">Minggu Ini</string>
+    <string name="time">Jarak</string>
+    <string name="time_hour">h</string>
+    <string name="time_minute">m</string>
+    <string name="time_second">s</string>
+    <string name="today">Hari Ini</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_h">Km/H</string>
+    <string name="unit_lbs">lbs</string>
+    <string name="unit_miles">Mil</string>
+    <string name="unit_mph">MPH</string>
+    <string name="unit_type">Unit Perhitungan</string>
+    <string name="walking_time">Waktu Berjalan</string>
+    <string name="week">Minggu</string>
+    <string name="weekly_steps">Langkah Mingguan</string>
+    <string name="weight">Berat</string>
+    <string name="weight_desc">Dibutuhkan untuk perhitungan kalori</string>
+    <string name="notification_content">"Today's steps are &#160;"</string>
+
+
+
+    <string name="update_settings">UPDATE SETTINGS</string>
+    <string name="exercise">Exercise</string>
+    <string name="back_toast">Press again to exit the program</string>
+    <string name="enable">Enable</string>
+    <string name="confirm">confirm</string>
+    <string name="woluld_you_like_to_exit">Would you like to exit %s ?</string>
+    <string name="cancel">cancel</string>
+    <string name="morning_dialog_content">It\'s time to start the morning run.</string>
+    <string name="stepgoal_dialog_content">Walking %s steps , go and see the buring calories.</string>
+    <string name="exercise_dialog_content">When it\'s time for exercise start exercising.</string>
+    <string name="detail">DETAIL</string>
+    <string name="go_exercising">GO Exercising</string>
+</resources>

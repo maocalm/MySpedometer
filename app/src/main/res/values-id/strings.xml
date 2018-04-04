@@ -1,0 +1,94 @@
+<resources>
+
+
+    <string name="app_name">"alat pengukur langkah"</string>
+    <string name="btn_cancel">"Batal"</string>
+    <string name="btn_confirm_ok">"Ya"</string>
+    <string name="daily_average">"Rata-rata harian:"</string>
+    <string name="female">"wanita"</string>
+    <string name="distance">"jarak"</string>
+    <string name="gender">"jenis kelamin"</string>
+    <string name="gender_desc">Digunakan untuk menghitung ukuran langkah</string>
+    <string name="gender_description">Digunakan untuk menghitung kalori dan langkah</string>
+    <string name="goal_ins_title">"target jumlah langkah"</string>
+    <string name="goal_with_value">"Tujuan: %s"</string>
+    <string name="kcal">"kkal"</string>
+    <string name="height">"tinggi"</string>
+    <string name="height_desc">Digunakan untuk menghitung jarak dan kecepatan</string>
+    <string name="high">"tinggi"</string>
+    <string name="history">"sejarah"</string>
+    <string name="male">"laki-laki"</string>
+    <string name="month">"bulan"</string>
+    <string name="more">"Lainnya"</string>
+    <string name="next">"Halaman Berikutnya"</string>
+    <string name="pause">"Jeda"</string>
+    <string name="pedometer_preferences">"preferensi"</string>
+    <string name="pg_permission_dialog_sub_title">"Pastikan %s uptime"</string>
+    <string name="pg_permission_dialog_title">"perizinan diperlukan"</string>
+    <string name="pg_permission_protect_app">Bergabunglah dengan aplikasi latar belakang yang dilindungi</string>
+    <string name="profile">"Informasi pribadi"</string>
+    <string name="resume">"terus"</string>
+    <string name="select_gender">"Silakan pilih jenis kelamin"</string>
+    <string name="sensitivity">"kepekaan"</string>
+    <string name="report">"laporan"</string>
+    <string name="profile_description">Untuk memastikan akurasi, mohon masukan informasi yang akurat. Kami tidak akan pernah mengungkapkan informasi ini kepada pihak ketiga.</string>
+    <string name="setting">"Pengaturan"</string>
+    <string name="speed">"kecepatan"</string>
+    <string name="start">"mulai"</string>
+    <string name="step">"langkah"</string>
+    <string name="step_counter_notification">"Pemberitahuan bar"</string>
+    <string name="steps">"langkah"</string>
+    <string name="tab_calorie">"kalori"</string>
+    <string name="tab_step">"Jumlah langkah"</string>
+    <string name="this_week">"minggu ini"</string>
+    <string name="time">"waktu"</string>
+    <string name="time_hour">"jam"</string>
+    <string name="time_minute">"menit"</string>
+    <string name="time_second">"kedua"</string>
+    <string name="today">"hari ini"</string>
+    <string name="unit_cm">"senti"</string>
+    <string name="unit_feet">"kaki"</string>
+    <string name="unit_inch">"inci"</string>
+    <string name="unit_kcal">"kkal"</string>
+    <string name="unit_kg">"kilogram"</string>
+    <string name="unit_km">"km"</string>
+    <string name="unit_km_h">"Km / h"</string>
+    <string name="unit_lbs">"pon"</string>
+    <string name="unit_miles">"mil"</string>
+    <string name="unit_mph">"Mil / jam"</string>
+    <string name="unit_type">"unit metrik dan imperial"</string>
+    <string name="walking_time">"berjalan waktu"</string>
+    <string name="week">"minggu"</string>
+    <string name="weekly_steps">"Jumlah langkah minggu ini"</string>
+    <string name="weight">"berat"</string>
+    <string name="weight_desc">Digunakan untuk menghitung kalori</string>
+    <string name="notification_content">"jumlah langkah saat ini adalah  "</string>
+
+
+
+
+
+    <string name="update_settings"> UPDATE SETTINGS </string>
+        
+    <string name="exercise"> Latihan </string>
+        
+    <string name="back_toast"> Tekan lagi untuk keluar dari program </string>
+        
+    <string name="enable"> Enable </string>
+        
+    <string name="confirm"> confirm </string>
+        
+    <string name="woluld_you_like_to_exit"> Apakah Anda ingin keluar dari %s ? </string>
+        
+    <string name="cancel"> batalkan </string>
+        
+    <string name="morning_dialog_content"> Saatnya untuk memulai lari pagi. </string>
+        
+    <string name="stepgoal_dialog_content"> Berjalan %s langkah, pergi dan melihat kalori yang mengernyit. </string>
+        
+    <string name="exercise_dialog_content"> Saat waktunya latihan dimulai. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> GO Berolahraga </string>
+</resources>

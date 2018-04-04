@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">歩数計</string>
+    <string name="btn_cancel">キャンセル</string>
+    <string name="btn_confirm_ok">OK</string>
+    <string name="daily_average">一日の平均:</string>
+    <string name="female">女性</string>
+    <string name="distance">距離</string>
+    <string name="gender">性別</string>
+    <string name="gender_desc">ステップサイズを計算するために使用されます</string>
+    <string name="gender_description">カロリーとステップを計算するために使用。</string>
+    <string name="goal_ins_title">目標歩数</string>
+    <string name="goal_with_value">目標: %s</string>
+    <string name="height">身長</string>
+    <string name="height_desc">距離と速度の計算に使用</string>
+    <string name="high">高</string>
+    <string name="history">タイムライン</string>
+    <string name="kcal">キロカロリー</string>
+    <string name="male">男性</string>
+    <string name="month">ヶ月</string>
+    <string name="more">その他</string>
+    <string name="next">次</string>
+    <string name="pause">一時停止</string>
+    <string name="pedometer_preferences">ユーザー設定</string>
+    <string name="pg_permission_dialog_sub_title">%sが正常に機能できるようにするため</string>
+    <string name="pg_permission_dialog_title">許可が必要です</string>
+    <string name="pg_permission_protect_app">保護されたバックグラウンドアプリケーションに参加する</string>
+    <string name="profile">マイ プロフィール</string>
+    <string name="profile_description">正確を期すために、正確な情報を入力してください。 私たちはこの情報を第三者に開示することはありません。</string>
+    <string name="report">レポート</string>
+    <string name="resume">再開</string>
+    <string name="select_gender">性別を選択</string>
+    <string name="setting">設定</string>
+    <string name="sensitivity">感度</string>
+    <string name="speed">速さ</string>
+    <string name="start">スタート</string>
+    <string name="step">歩数</string>
+    <string name="step_counter_notification">通知バー</string>
+    <string name="steps">歩</string>
+    <string name="tab_calorie">カロリー</string>
+    <string name="tab_step">歩数</string>
+    <string name="this_week">今週</string>
+    <string name="time">時間</string>
+    <string name="time_hour">時間</string>
+    <string name="time_minute">分</string>
+    <string name="time_second">秒</string>
+    <string name="today">今日</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">キロカロリー</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">km</string>
+    <string name="unit_km_h">km/時</string>
+    <string name="unit_lbs">lbs</string>
+    <string name="unit_miles">マイル</string>
+    <string name="unit_mph">マイル/時</string>
+    <string name="unit_type">メートル法 &amp; 帝国単位</string>
+    <string name="walking_time">歩行時間</string>
+    <string name="week">週間</string>
+    <string name="weekly_steps">一週間あたりの歩数</string>
+    <string name="weight">体重</string>
+    <string name="weight_desc">カロリーの計算に使用</string>
+    <string name="notification_content">"今日の手順は &#160;"</string>
+
+
+
+
+
+    <string name="update_settings">更新設定</string>
+        
+    <string name="exercise">演習</string>
+        
+    <string name="back_toast">もう一度押すとプログラムを終了します。</string>
+        
+    <string name="enable">有効にする</string>
+        
+    <string name="confirm">確認</string>
+        
+    <string name="woluld_you_like_to_exit">%s を終了しますか ？</string>
+        
+    <string name="cancel">キャンセル</string>
+        
+    <string name="morning_dialog_content">朝の実行を開始する時刻です。</string>
+        
+    <string name="stepgoal_dialog_content"> %s 歩を歩いて行くと、ベーリングカロリーが表示されます。</string>
+        
+    <string name="exercise_dialog_content">エクササイズ開始時</string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> GO演習</string>
+</resources>

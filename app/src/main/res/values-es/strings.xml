@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--<string name="app_name">Podómetro - Contador de pasos</string>-->
+    <string name="app_name">Podómetro</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm_ok">Ok</string>
+    <string name="daily_average">Media diaria:</string>
+    <string name="distance">Distancia</string>
+    <string name="female">Mujer</string>
+    <string name="gender">Género</string>
+    <string name="gender_desc">Usado para calcular el tamaño del paso</string>
+    <string name="gender_description">Se usa para calcular calorías y pasos</string>
+    <string name="goal_ins_title">Objetivo de pasos</string>
+    <string name="goal_with_value">Objetivo: %s</string>
+    <string name="height">Altura</string>
+    <string name="height_desc">Se usa para calcular la distancia y la velocidad</string>
+    <string name="high">Alta</string>
+    <string name="history">Historial</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Hombre</string>
+    <string name="month">Mes</string>
+    <string name="more">Más</string>
+    <string name="next">Siguiente</string>
+    <string name="pause">Pausa</string>
+    <string name="pedometer_preferences">Ajustes de preferencia</string>
+    <string name="speed">Velocidad</string>
+    <string name="start">Inicio</string>
+    <string name="step">Paso</string>
+    <string name="step_counter_notification">Barra de notificaciones</string>
+    <string name="steps">Pasos</string>
+    <string name="pg_permission_dialog_sub_title">Para asegurarnos de que %s funciona correctamente</string>
+    <string name="pg_permission_dialog_title">Permiso necesario</string>
+    <string name="profile">Mi Perfil</string>
+    <string name="pg_permission_protect_app">Únase a la aplicación de fondo protegida</string>
+    <string name="tab_calorie">Caloría</string>
+    <string name="tab_step">Paso</string>
+    <string name="this_week">Esta semana</string>
+    <string name="time">Hora</string>
+    <string name="time_hour">h</string>
+    <string name="time_minute">m</string>
+    <string name="time_second">s</string>
+    <string name="today">Hoy</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_h">Km/H</string>
+    <string name="unit_lbs">lbs</string>
+    <string name="unit_miles">Milla</string>
+    <string name="unit_mph">MPH</string>
+    <string name="unit_type">Seleccionar Unidades</string>
+    <string name="walking_time">Tiempo Andado</string>
+    <string name="week">Semana</string>
+    <string name="weekly_steps">Pasos semanales</string>
+    <string name="weight">Peso</string>
+    <string name="weight_desc">Usado para calcular calorías</string>
+    <string name="notification_content">"Los pasos de hoy son &#160;"</string>
+
+
+    <string name="update_settings"> ACTUALIZAR CONFIGURACIÓN </string>
+        
+    <string name="exercise"> Ejercicio </string>
+        
+    <string name="back_toast"> Presione nuevamente para salir del programa </string>
+        
+    <string name="enable"> Habilitar </string>
+        
+    <string name="confirm"> confirmar </string>
+        
+    <string name="woluld_you_like_to_exit"> ¿Desea salir de %s ? </string>
+        
+    <string name="cancel"> cancelar </string>
+        
+    <string name="morning_dialog_content"> Es hora de comenzar la carrera de la mañana. </string>
+        
+    <string name="stepgoal_dialog_content"> Caminando %s pasos, vaya y vea las calorías de buring. </string>
+        
+    <string name="exercise_dialog_content"> Cuando es hora de empezar a hacer ejercicio. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> GO ejercicio </string>
+
+
+
+
+</resources>

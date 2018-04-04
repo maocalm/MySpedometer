@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Pedometer</string>
+    <string name="btn_cancel">Abbruch</string>
+    <string name="btn_confirm_ok">Ok</string>
+    <string name="daily_average">Tagesdurchschnitt:</string>
+    <string name="distance">Entfernung</string>
+    <string name="female">Frau</string>
+    <string name="gender">Geschlecht</string>
+    <string name="gender_desc">Wird zur Berechnung der Schrittgröße verwendet</string>
+    <string name="gender_description">Wird verwendet, um Kalorien und Schritte zu berechnen</string>
+    <string name="goal_ins_title">Schritteziel</string>
+    <string name="goal_with_value">Ziel: %s</string>
+    <string name="height">Größe</string>
+    <string name="height_desc">Wird verwendet, um Entfernung und Geschwindigkeit zu berechnen</string>
+    <string name="high">Hoch</string>
+    <string name="history">Verlauf</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Mann</string>
+    <string name="month">Monat</string>
+    <string name="more">Mehr</string>
+    <string name="next">Weiter</string>
+    <string name="pause">Pause</string>
+    <string name="pedometer_preferences">Präferenzeinstellungen</string>
+    <string name="pg_permission_dialog_sub_title">Damit %s richtig funktioniert</string>
+    <string name="pg_permission_dialog_title">Genehmigung erforderlich</string>
+    <string name="pg_permission_protect_app">Tritt der geschützten Hintergrundanwendung bei</string>
+    <string name="profile">Mein Profil</string>
+    <string name="profile_description">Um Genauigkeit sicherzustellen, geben Sie bitte genaue Informationen ein. Wir werden diese Informationen niemals an Dritte weitergeben.</string>
+    <string name="report">Bericht</string>
+    <string name="resume">Weiter</string>
+    <string name="select_gender">Geschlecht wählen</string>
+    <string name="sensitivity">Empfindlichkeit</string>
+    <string name="setting">Einstellungen</string>
+    <string name="speed">Geschwindigkeit</string>
+    <string name="start">Start</string>
+    <string name="step">Schritt</string>
+    <string name="step_counter_notification">Benachrichtigungsleiste</string>
+    <string name="steps">Schritte</string>
+    <string name="tab_calorie">Kalorie</string>
+    <string name="tab_step">Schritt</string>
+    <string name="this_week">Diese Woche</string>
+    <string name="time">Zeit</string>
+    <string name="time_hour">h</string>
+    <string name="time_minute">m</string>
+    <string name="time_second">s</string>
+    <string name="today">Heute</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_h">Km/H</string>
+    <string name="unit_lbs">lbs</string>
+    <string name="unit_miles">Meile</string>
+    <string name="unit_mph">MPH</string>
+    <string name="unit_type">Einheiten</string>
+    <string name="walking_time">Laufzeit</string>
+    <string name="week">Woche</string>
+    <string name="weekly_steps">Schritte in der Woche</string>
+    <string name="weight">Gewicht</string>
+    <string name="weight_desc">Wird verwendet, um Kalorien zu berechnen</string>
+    <string name="notification_content">"Die heutigen Schritte sind  &#160;"</string>
+
+
+
+
+
+    <string name = "update_settings"> UPDATE-EINSTELLUNGEN </string>
+         <string name = "exercise"> Übung </string>
+         <string name = "back_toast"> Drücken Sie erneut, um das Programm </string>
+         <string name = "enable"> Aktivieren </string>
+         <string name = "confirm"> bestätigen </string>
+         <string name = "woluld_you_like_to_exit"> Möchten Sie %s beenden ? </string>
+         <string name = "cancel"> Abbrechen </string>
+         <string name = "morning_dialog_content"> Es ist Zeit, den morgendlichen Lauf zu starten. </string>
+         <string name = "stepgoal_dialog_content"> Gehen Sie %s Schritte, gehen Sie und sehen Sie sich die Kalorien an. </string>
+         <string name = "exercise_dialog_content"> Wenn es Zeit für Übung ist, trainieren Sie. </string>
+         <string name = "detail"> DETAIL </string>
+         <string name = "go_exercising"> GO Training </string>
+
+
+
+</resources>

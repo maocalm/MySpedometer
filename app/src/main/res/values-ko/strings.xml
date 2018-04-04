@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">만보기</string>
+    <string name="btn_cancel">취소</string>
+    <string name="btn_confirm_ok">확인</string>
+    <string name="daily_average">일일 평균:</string>
+    <string name="female">여성</string>
+    <string name="distance">거리</string>
+    <string name="gender">성별</string>
+    <string name="goal_with_value">목표: %s</string>
+    <string name="gender_desc">단계 크기를 계산하는 데 사용됩니다.</string>
+    <string name="goal_ins_title">걸음 목표</string>
+    <string name="gender_description">칼로리와 단계를 계산하는 데 사용됩니다.</string>
+    <string name="height">신장</string>
+    <string name="height_desc">거리와 속도를 계산하는 데 사용됩니다.</string>
+    <string name="high">높음</string>
+    <string name="history">타임 라인</string>
+    <string name="kcal">키로칼로리</string>
+    <string name="male">남성</string>
+    <string name="month">개월</string>
+    <string name="more">더 보기</string>
+    <string name="next">다음</string>
+    <string name="pause">일시 중지</string>
+    <string name="pedometer_preferences">환경 설정</string>
+    <string name="pg_permission_dialog_sub_title">%s이(가) 제대로 작동하기 위해</string>
+    <string name="pg_permission_protect_app">보호 된 배경 응용 프로그램에 가입하십시오.</string>
+    <string name="pg_permission_dialog_title">허가 필요</string>
+    <string name="profile">나의 프로필</string>
+    <string name="profile_description">정확성을 보장하려면 정확한 정보를 입력하십시오. 우리는이 정보를 제 3 자에게 공개하지 않을 것입니다.</string>
+    <string name="select_gender">성별 선택</string>
+    <string name="resume">다시 시작</string>
+    <string name="setting">설정</string>
+    <string name="report">보고</string>
+    <string name="sensitivity">민감도</string>
+    <string name="speed">속도</string>
+    <string name="start">시작</string>
+    <string name="step">걸음</string>
+    <string name="step_counter_notification">알림 표시줄</string>
+    <string name="steps">걸음</string>
+    <string name="tab_calorie">칼로리</string>
+    <string name="tab_step">걸음</string>
+    <string name="this_week">이번주</string>
+    <string name="time">시간</string>
+    <string name="time_hour">h</string>
+    <string name="time_minute">m</string>
+    <string name="time_second">s</string>
+    <string name="today">오늘</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">키로칼로리</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">km</string>
+    <string name="unit_km_h">km/h</string>
+    <string name="unit_lbs">lbs</string>
+    <string name="unit_miles">마일</string>
+    <string name="unit_mph">MPH</string>
+    <string name="unit_type">미터법 &amp; 영국식 단위</string>
+    <string name="walking_time">보행 시간</string>
+    <string name="week">주</string>
+    <string name="weekly_steps">주간 걸음</string>
+    <string name="weight">체중</string>
+    <string name="weight_desc">칼로리 계산에 사용</string>
+    <string name="notification_content">"오늘의 단계는 &#160;"</string>
+
+
+
+
+
+    <string name="update_settings"> 업데이트 설정 </string>
+        
+    <string name="exercise"> 연습 </string>
+        
+    <string name="back_toast"> 다시 눌러 프로그램을 종료하십시오. </string>
+        
+    <string name="enable"> 사용 </string>
+        
+    <string name="confirm"> 확인 </string>
+        
+    <string name="woluld_you_like_to_exit"> %s 를 종료 하시겠습니까 ? </string>
+        
+    <string name="cancel"> 취소 </string>
+        
+    <string name="morning_dialog_content"> 아침 실행을 시작할 시간입니다. </string>
+        
+    <string name="stepgoal_dialog_content"> %s 단계를 거치며 이동 열량을 확인하십시오. </string>
+        
+    <string name="exercise_dialog_content"> 운동 시작 시간. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> 운동하기 </string>
+
+</resources>

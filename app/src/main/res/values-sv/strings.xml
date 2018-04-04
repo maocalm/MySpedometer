@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="btn_cancel">Avbryt</string>
+    <string name="app_name">stegräknare</string>
+    <string name="btn_confirm_ok">OK</string>
+    <string name="daily_average">Dagligt genomsnitt:</string>
+    <string name="distance">Avstånd</string>
+    <string name="female">Kvinna</string>
+    <string name="gender">Kön</string>
+    <string name="gender_desc">Används för att beräkna steget</string>
+    <string name="gender_description">Används för att beräkna kalorier och steg</string>
+    <string name="goal_ins_title">Stegmål</string>
+    <string name="goal_with_value">Mål: %s</string>
+    <string name="height">Längd</string>
+    <string name="height_desc">Används för att beräkna avstånd och hastighet</string>
+    <string name="high">Hög</string>
+    <string name="history">Tidslinje</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Man</string>
+    <string name="month">Månad</string>
+    <string name="more">Mer</string>
+    <string name="next">Nästa</string>
+    <string name="pause">Pause</string>
+    <string name="pedometer_preferences">Favoritinställningar</string>
+    <string name="pg_permission_protect_app">Gå med i den skyddade bakgrundsapplikationen</string>
+    <string name="pg_permission_dialog_sub_title">För att se till att %s fungerar korrekt</string>
+    <string name="pg_permission_dialog_title">Behörighet krävs</string>
+    <string name="profile">Min profil</string>
+    <string name="profile_description">För att säkerställa noggrannhet, ange noggrann information. Vi kommer aldrig att avslöja denna information för tredje part.</string>
+    <string name="select_gender">Välj kön</string>
+    <string name="sensitivity">Känslighet</string>
+    <string name="setting">Inställning</string>
+    <string name="report">Rapport</string>
+    <string name="resume">Återuppta</string>
+    <string name="speed">Hastighet</string>
+    <string name="start">Starta</string>
+    <string name="step">Steg</string>
+    <string name="step_counter_notification">Aviseringsfält</string>
+    <string name="steps">Steg</string>
+    <string name="tab_calorie">Kalori</string>
+    <string name="tab_step">Steg</string>
+    <string name="this_week">Den här veckan</string>
+    <string name="time">Tid</string>
+    <string name="time_hour">t</string>
+    <string name="time_minute">m</string>
+    <string name="time_second">s</string>
+    <string name="today">Idag</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">fot</string>
+    <string name="unit_inch">tum</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_h">Km/tim</string>
+    <string name="unit_lbs">lbs</string>
+    <string name="unit_miles">Mile</string>
+    <string name="unit_mph">MPH</string>
+    <string name="unit_type">Metriska &amp; brittiska enheter</string>
+    <string name="walking_time">Gångtid</string>
+    <string name="week">Vecka</string>
+    <string name="weekly_steps">Veckans steg</string>
+    <string name="weight">Vikt</string>
+    <string name="weight_desc">Används för att beräkna kalorier</string>
+    <string name="notification_content">"Dagens steg är &#160;"</string>
+
+
+
+    <string name="update_settings"> UPDATE SETTINGS </string>
+        
+    <string name="exercise"> övning </string>
+        
+    <string name="back_toast"> Tryck igen för att avsluta programmet </string>
+        
+    <string name="enable"> Aktivera </string>
+        
+    <string name="confirm"> bekräfta </string>
+        
+    <string name="woluld_you_like_to_exit"> Vill du avsluta %s ? </string>
+        
+    <string name="cancel"> cancel </string>
+        
+    <string name="morning_dialog_content"> Det är dags att starta morgontidningen. </string>
+        
+    <string name="stepgoal_dialog_content"> Gå %s steg, gå och se buring kalorier. </string>
+        
+    <string name="exercise_dialog_content"> När det är dags för motion börjar träna. </string>
+        
+    <string name="detail"> DETALJER </string>
+        
+    <string name="go_exercising"> Gå utövar </string>
+
+</resources>

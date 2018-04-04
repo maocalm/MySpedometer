@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Βηματομετρητής</string>
+    <string name="btn_cancel">Άκυρο</string>
+    <string name="btn_confirm_ok">OK</string>
+    <string name="daily_average">Ημερ. μέσος όρος:</string>
+    <string name="distance">Απόσταση</string>
+    <string name="female">Γυναίκα</string>
+    <string name="gender">Φύλο</string>
+    <string name="gender_desc">Χρησιμοποιείται για τον υπολογισμό του μεγέθους βήματος</string>
+    <string name="gender_description">Χρησιμοποιείται για τον υπολογισμό θερμίδων και βημάτων</string>
+    <string name="goal_ins_title">Στόχος βημάτων</string>
+    <string name="goal_with_value">Στόχος:%s</string>
+    <string name="height">Ύψος</string>
+    <string name="height_desc">Χρησιμοποιείται για τον υπολογισμό της απόστασης και της ταχύτητας</string>
+    <string name="high">Υψηλή</string>
+    <string name="history">Χρονολόγιο</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Άνδρας</string>
+    <string name="month">Μήνας</string>
+    <string name="more">Πιό</string>
+    <string name="next">Επόμενο</string>
+    <string name="pause">Παύση</string>
+    <string name="pedometer_preferences">Ρυθμίσεις προτιμήσεων</string>
+    <string name="pg_permission_dialog_sub_title">Για να βεβαιωθείτε ότι ο %s λειτουργεί σωστά</string>
+    <string name="pg_permission_dialog_title">Απαιτείται άδεια</string>
+    <string name="pg_permission_protect_app">Συμμετοχή σε προστατευμένη εφαρμογή φόντου</string>
+    <string name="profile">Το προφίλ μου</string>
+    <string name="profile_description">Για να εξασφαλίσετε την ακρίβεια, εισαγάγετε ακριβείς πληροφορίες. Ποτέ δεν θα αποκαλύψουμε αυτές τις πληροφορίες σε τρίτους.</string>
+
+    <string name="report">Αναφορά</string>
+    <string name="resume">Επαναφορά</string>
+    <string name="select_gender">Επιλογή φύλου</string>
+    <string name="sensitivity">Ευαισθησία</string>
+    <string name="setting">Ρυθμίσεις</string>
+    <string name="speed">Ταχύτητα</string>
+    <string name="start">Έναρξη</string>
+    <string name="step">Βήματα</string>
+    <string name="step_counter_notification">Μπάρα ειδοπ/σης</string>
+    <string name="steps">Βήματα</string>
+    <string name="tab_calorie">Θερμίδα</string>
+    <string name="tab_step">Βήματα</string>
+    <string name="taking_screenshot">Λήψη στιγμιότ. οθόνης</string>
+    <string name="this_week">Αυτήν την εβδομάδα</string>
+    <string name="time">Ώρα</string>
+    <string name="time_hour">ώρα</string>
+    <string name="time_minute">λεπτό</string>
+    <string name="time_second">δευτερόλ.</string>
+    <string name="today">Σήμερα</string>
+    <string name="unit_cm">εκατ.</string>
+    <string name="unit_feet">πόδια</string>
+    <string name="unit_inch">ίντσες</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">κιλά</string>
+    <string name="unit_km">χλμ.</string>
+    <string name="unit_km_h">χλμ/ώρα</string>
+    <string name="unit_lbs">λίβρες</string>
+    <string name="unit_miles">Μίλι</string>
+    <string name="unit_mph">μίλια/ώρα</string>
+    <string name="unit_type">Μετρικό &amp; Βρεταν. σύστ. μέτρησης</string>
+    <string name="walking_time">Χρόνος βαδίσματος</string>
+    <string name="week">Εβδομάδα</string>
+    <string name="weekly_steps">Βήματα εβδομαδ/ως</string>
+    <string name="weight">Βάρος</string>
+    <string name="weight_desc">Χρησιμοποιείται για τον υπολογισμό θερμίδων</string>
+    <string name="notification_content">"Τα σημερινά βήματα είναι &#160;"</string>
+
+
+    <string name="update_settings"> ΡΥΘΜΙΣΕΙΣ UPDATE </string>
+        
+    <string name="exercise"> Άσκηση </string>
+        
+    <string name="back_toast" > Πιέστε ξανά για έξοδο από το πρόγραμμα </string>
+        
+    <string name="enable"> Ενεργοποίηση </string>
+        
+    <string name="confirm"> επιβεβαιώστε </string>
+        
+    <string name="woluld_you_like_to_exit"> Θα θέλατε να βγείτε από το %s; </string>
+        
+    <string name="cancel"> ακύρωση </string>
+        
+    <string name="morning_dialog_content"> Είναι ώρα να ξεκινήσετε την πρωινή εκτέλεση </string>
+        
+    <string name="stepgoal_dialog_content"> Περπατώντας %s βήματα, πηγαίνετε και δείτε τις θερμίδες ωρίμανσης. </string>
+        
+    <string name="exercise_dialog_content"> Όταν έρθει η ώρα για άσκηση άσκησης. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> GO Exercise </string>
+
+</resources>

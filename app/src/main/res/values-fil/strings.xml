@@ -1,0 +1,95 @@
+<resources>
+
+
+    <string name="app_name">"panukat ng layo ng nilakad"</string>
+    <string name="btn_cancel">"kinansela"</string>
+    <string name="btn_confirm_ok">"ipasiya"</string>
+    <string name="daily_average">"Araw-araw na average:"</string>
+    <string name="distance">"distansya"</string>
+    <string name="female">"babae"</string>
+    <string name="gender">"kasarian"</string>
+    <string name="gender_desc">Ginamit upang kalkulahin ang laki ng hakbang</string>
+    <string name="gender_description">Ginamit upang kalkulahin ang calories at mga hakbang</string>
+    <string name="goal_ins_title">"Target bilang ng mga hakbang"</string>
+    <string name="goal_with_value">"Layunin: %s"</string>
+    <string name="height">"taas"</string>
+    <string name="height_desc">Ginamit upang kalkulahin ang distansya at bilis</string>
+    <string name="high">"mataas"</string>
+    <string name="history">"kasaysayan"</string>
+    <string name="kcal">"kcal"</string>
+    <string name="male">"lalaki"</string>
+    <string name="month">"buwan"</string>
+    <string name="more">"pa"</string>
+    <string name="next">"susunod na Pahina"</string>
+    <string name="pause">"I-pause"</string>
+    <string name="pedometer_preferences">"Mga Kagustuhan"</string>
+    <string name="profile">"Personal na Inpormasyon"</string>
+    <string name="profile_description">Upang matiyak ang katumpakan, mangyaring ipasok ang tumpak na impormasyon. Hindi namin ibubunyag ang impormasyong ito sa mga third party.</string>
+    <string name="pg_permission_protect_app">Sumali sa protektadong application sa background</string>
+    <string name="pg_permission_dialog_sub_title">"Tiyakin %s uptime"</string>
+    <string name="pg_permission_dialog_title">"kinakailangang Pahintulot"</string>
+    <string name="report">"ulat"</string>
+    <string name="resume">"magpatuloy"</string>
+    <string name="select_gender">"Mangyaring pumili ng kasarian"</string>
+    <string name="sensitivity">"pagkamapagdamdam"</string>
+    <string name="setting">"I-set up"</string>
+    <string name="speed">"bilis"</string>
+    <string name="start">"magsimula"</string>
+    <string name="step">"hakbang"</string>
+    <string name="step_counter_notification">"bar ng abiso"</string>
+    <string name="steps">"hakbang"</string>
+    <string name="tab_calorie">"calories"</string>
+    <string name="tab_step">"Bilang ng mga hakbang"</string>
+    <string name="this_week">"Sa linggong ito"</string>
+    <string name="time">"oras"</string>
+    <string name="time_hour">"kailan"</string>
+    <string name="time_minute">"hatiin"</string>
+    <string name="time_second">"pangalawa"</string>
+    <string name="today">"ngayon"</string>
+    <string name="unit_cm">"cm"</string>
+    <string name="unit_feet">"paa"</string>
+    <string name="unit_inch">"pulgada"</string>
+    <string name="unit_kcal">"kcal"</string>
+    <string name="unit_kg">"kilo"</string>
+    <string name="unit_km">"km"</string>
+    <string name="unit_km_h">"Km / h"</string>
+    <string name="unit_lbs">"pound"</string>
+    <string name="unit_miles">"milya"</string>
+    <string name="unit_mph">"Milya / oras"</string>
+    <string name="unit_type">"Panukat at imperyal yunit"</string>
+    <string name="walking_time">"naglalakad oras"</string>
+    <string name="week">"Zhou"</string>
+    <string name="weekly_steps">"Ang bilang ng mga hakbang na ito linggo"</string>
+    <string name="weight">"timbang"</string>
+    <string name="weight_desc">Ginagamit upang kalkulahin ang calories</string>
+    <string name="notification_content">"step number ngayong araw ay  "</string>
+
+
+    <string name="update_settings"> UPDATE SETTINGS </string>
+        
+    <string name="exercise"> Exercise </string>
+        
+    <string name="back_toast" > Pindutin muli upang lumabas sa program </string>
+        
+    <string name="enable"> Paganahin ang </string>
+        
+    <string name="confirm"> confirm </string>
+        
+    <string name="woluld_you_like_to_exit"> Gusto mo bang lumabas %s ? </string>
+        
+    <string name="cancel"> cancel </string>
+        
+    <string name="morning_dialog_content"> Panahon na upang simulan ang umaga. </string>
+        
+    <string name="stepgoal_dialog_content"> Mga hakbang sa paglalakad %s, pumunta at tingnan ang mga calories na buring. </string>
+        
+    <string name="exercise_dialog_content"> Kapag oras na para magsimulang mag-ehersisyo. </string>
+        
+    <string name="detalye"> DETALYE </string>
+        
+    <string name="go_exercising"> GO Exercising </string>
+
+
+
+
+</resources>

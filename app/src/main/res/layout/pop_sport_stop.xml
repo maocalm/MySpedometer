@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/popwindow_bg"
+    android:orientation="vertical"
+    android:paddingLeft="25dp"
+    android:paddingTop="25dp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirm"
+        style="@style/pop_title_style"
+        android:textStyle="bold"
+       />
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="Finish this Exercise ?"
+       />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="30dp"
+            android:paddingBottom="15dp"
+            android:text="@string/ok"
+            android:textColor="@color/setting_text_show_color"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/cancle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/ok"
+            android:text="@string/cancle"
+            android:textColor="@color/setting_text_show_color"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:paddingRight="15dp"
+            android:paddingLeft="10dp"
+            android:paddingBottom="15dp"
+            />
+    </RelativeLayout>
+
+
+</LinearLayout>

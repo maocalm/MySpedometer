@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Крокомір</string>
+    <string name="btn_cancel">Скасувати</string>
+    <string name="btn_confirm_ok">ОК</string>
+    <string name="daily_average">Середнє за день</string>
+    <string name="distance">Відстань</string>
+    <string name="female">Жінка</string>
+    <string name="gender">Стать</string>
+    <string name="gender_desc">Використовується для розрахунку розміру кроку</string>
+    <string name="gender_description">Використовується для розрахунку калорій та кроків</string>
+    <string name="goal_ins_title">Цільова кількість кроків</string>
+    <string name="goal_with_value">Ціль: %s</string>
+    <string name="height">Зріст</string>
+    <string name="height_desc">Використовується для розрахунку відстані та швидкості</string>
+    <string name="high">Висока</string>
+    <string name="history">Часова шкала</string>
+    <string name="kcal">Ккал</string>
+    <string name="male">Чоловік</string>
+    <string name="month">Місяць</string>
+    <string name="more">більше</string>
+    <string name="next">Далі</string>
+    <string name="pause">Призупинити</string>
+    <string name="pedometer_preferences">Налаштування параметрів</string>
+    <string name="pg_permission_protect_app">Приєднуйтесь до захищеної фонової програми</string>
+    <string name="pg_permission_dialog_sub_title">Щоб переконатися, що %s працює правильно</string>
+    <string name="pg_permission_dialog_title">Потрібен дозвіл</string>
+    <string name="profile">Мій профіль</string>
+    <string name="profile_description">Для забезпечення точності, будь-ласка, введіть точну інформацію. Ми ніколи не розкриваємо цю інформацію третім особам.</string>
+    <string name="report">Звіт</string>
+    <string name="resume">Відновити</string>
+    <string name="setting">Налашт.</string>
+    <string name="select_gender">Виберіть стать</string>
+    <string name="sensitivity">Чутливість</string>
+    <string name="speed">Швидкість</string>
+    <string name="start">Почати</string>
+    <string name="step">Крок</string>
+    <string name="step_counter_notification">Рядок сповіщень</string>
+    <string name="steps">кроки</string>
+    <string name="tab_calorie">Калорія</string>
+    <string name="tab_step">Крок</string>
+    <string name="this_week">Цей тиждень</string>
+    <string name="time">Час</string>
+    <string name="time_hour">год.</string>
+    <string name="time_minute">хв.</string>
+    <string name="time_second">с.</string>
+    <string name="today">Сьогодні</string>
+    <string name="unit_cm">см</string>
+    <string name="unit_feet">фут</string>
+    <string name="unit_inch">дюйм</string>
+    <string name="unit_kcal">Ккал</string>
+    <string name="unit_kg">кг</string>
+    <string name="unit_km">км</string>
+    <string name="unit_km_h">км/год.</string>
+    <string name="unit_lbs">фунти</string>
+    <string name="unit_miles">миля</string>
+    <string name="unit_mph">миль/год.</string>
+    <string name="unit_type">Одиниці вимірювання</string>
+    <string name="walking_time">Час ходьби</string>
+    <string name="week">Тиждень</string>
+    <string name="weekly_steps">Кількість кроків за тиждень</string>
+    <string name="weight">Вага</string>
+    <string name="weight_desc">Використовується для розрахунку калорій</string>
+    <string name="notification_content">"Сьогоднішні кроки &#160;"</string>
+
+
+
+
+    <string name="update_settings"> НАСТРОЮВАННЯ UPDATE </string>
+        
+    <string name="exercise"> Вправа </string>
+        
+    <string name="back_toast"> Натисніть ще раз, щоб вийти з програми </string>
+        
+    <string name="enable"> Увімкнути </string>
+        
+    <string name="confirm"> confirm </string>
+        
+    <string name="woluld_you_like_to_exit"> Ви хочете вийти з %s ? </string>
+        
+    <string name="cancel"> cancel </string>
+        
+    <string name="morning_dialog_content"> Час, щоб розпочати ранковий запуск. </string>
+        
+    <string name="stepgoal_dialog_content"> Пройшовши %s кроків, перейдіть і перегляньте калорії. </string>
+        
+    <string name="exercise_dialog_content"> Коли з\'явиться час для початку тренування. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> GO Exercise </string>
+</resources>

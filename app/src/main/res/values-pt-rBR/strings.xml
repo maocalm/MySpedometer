@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Pedômetro - Contador de Passos</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm_ok">Ok</string>
+    <string name="daily_average">Média diária:</string>
+    <string name="distance">Distância</string>
+    <string name="female">Feminino</string>
+    <string name="gender">Gênero</string>
+    <string name="gender_desc">Usado para calcular o tamanho do passo</string>
+    <string name="gender_description">Para garantir a precisão, insira informações precisas. Nunca divulgaremos essas informações a terceiros.</string>
+    <string name="goal_ins_title">Meta de Passos</string>
+    <string name="goal_with_value">Meta: %s</string>
+    <string name="height">Altura</string>
+    <string name="height_desc">Usado para calcular a distância e a velocidade</string>
+    <string name="high">Alta</string>
+    <string name="history">Histórico</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Masculino</string>
+    <string name="month">Mês</string>
+    <string name="more">Mais</string>
+    <string name="next">Avançar</string>
+    <string name="pause">Pausa</string>
+    <string name="pedometer_preferences">Configurações de Preferência</string>
+    <string name="pg_permission_dialog_sub_title">Para garantir que o %s funcione corretamente</string>
+    <string name="pg_permission_protect_app">Participe do aplicativo de fundo protegido</string>
+    <string name="pg_permission_dialog_title">Permissão Necessária</string>
+    <string name="profile">Meu perfil</string>
+    <string name="report">Relatório</string>
+    <string name="setting">Definições</string>
+    <string name="resume">Retomar</string>
+    <string name="select_gender">Selecionar Sexo</string>
+    <string name="sensitivity">Sensibilidade</string>
+    <string name="speed">Velocidade</string>
+    <string name="start">Começo</string>
+    <string name="step">Passo</string>
+    <string name="step_counter_notification">Barra de Notificações</string>
+    <string name="steps">Passos</string>
+    <string name="tab_calorie">Caloria</string>
+    <string name="tab_step">Passo</string>
+    <string name="this_week">Esta semana</string>
+    <string name="time">Hora</string>
+    <string name="time_hour">h</string>
+    <string name="time_minute">min</string>
+    <string name="time_second">s</string>
+    <string name="today">Hoje</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">p</string>
+    <string name="unit_inch">pol.</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">km</string>
+    <string name="unit_km_h">km/h</string>
+    <string name="unit_lbs">lb.</string>
+    <string name="unit_miles">Milha</string>
+    <string name="unit_mph">mi/h</string>
+    <string name="unit_type">Unidades Métricas e Imperiaist</string>
+    <string name="walking_time">Tempo de Caminhada</string>
+    <string name="week">Semana</string>
+    <string name="weekly_steps">Passos na Semana</string>
+    <string name="weight">Peso</string>
+    <string name="weight_desc">Usado para calcular calorias</string>
+    <string name="notification_content">"Os passos de hoje são &#160;"</string>
+
+
+
+
+
+    <string name="update_settings"> UPDATE SETTINGS </string>
+        
+    <string name="exercise"> Exercício </string>
+        
+    <string name="back_toast"> Pressione novamente para sair do programa </string>
+        
+    <string name="enable"> Ativar </string>
+        
+    <string name="confirme"> confirme </string>
+        
+    <string name="woluld_you_like_to_exit"> Deseja sair de %s ? </string>
+        
+    <string name="cancelar"> cancelar </string>
+        
+    <string name="morning_dialog_content"> É hora de começar a corrida da manhã. </string>
+        
+    <string name="stepgoal_dialog_content"> Andando %s passos, vá e veja as calorias de cura. </string>
+        
+    <string name="exercise_dialog_content"> Quando o tempo de exercício começar a se exercitar. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> GO Exercising </string>
+</resources>

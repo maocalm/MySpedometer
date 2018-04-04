@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Pedometre</string>
+    <string name="btn_cancel">İptal</string>
+    <string name="btn_confirm_ok">TAMAM</string>
+    <string name="daily_average">Günlük ortalama:</string>
+    <string name="female">Kadın</string>
+    <string name="distance">Uzaklık</string>
+    <string name="goal_ins_title">Adım Hedefi</string>
+    <string name="goal_with_value">Hedef: %s</string>
+    <string name="gender">Cinsiyet</string>
+    <string name="gender_desc">Adım boyutunu hesaplamak için kullanılır</string>
+    <string name="gender_description">Kalori ve basamakları hesaplamak için kullanılır</string>
+    <string name="height">Yükseklik</string>
+    <string name="height_desc">Mesafe ve hızı hesaplamak için kullanılır</string>
+    <string name="high">Yüksek</string>
+    <string name="history">Çizelgesi</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Erkek</string>
+    <string name="month">Ay</string>
+    <string name="more">Daha</string>
+    <string name="next">İleri</string>
+    <string name="pause">Duraksat</string>
+    <string name="pedometer_preferences">Tercih Ayarları</string>
+    <string name="pg_permission_protect_app">Korunan arka plan uygulamasına katılın</string>
+    <string name="pg_permission_dialog_sub_title">%s uygulamasının düzgün çalışmasını temin etmek için</string>
+    <string name="pg_permission_dialog_title">İzinler Gerekli</string>
+    <string name="report">Rapor</string>
+    <string name="profile">Profilim</string>
+    <string name="profile_description">Doğruluk sağlamak için lütfen doğru bilgileri girin. Bu bilgileri hiçbir zaman üçüncü şahıslara ifşa etmeyeceğiz.</string>
+    <string name="resume">Sürdür</string>
+    <string name="select_gender">Cinsiyet Seçin</string>
+    <string name="setting">Ayarlar</string>
+    <string name="sensitivity">Hassaslık</string>
+    <string name="speed">Hız</string>
+    <string name="start">Başla</string>
+    <string name="step">Adım</string>
+    <string name="step_counter_notification">Bildirim Çubuğu</string>
+    <string name="steps">Adım</string>
+    <string name="tab_calorie">Kalori</string>
+    <string name="tab_step">Adım</string>
+    <string name="this_week">Bu hafta</string>
+    <string name="time">Zaman</string>
+    <string name="time_hour">sa</string>
+    <string name="time_minute">dk</string>
+    <string name="time_second">sn</string>
+    <string name="today">Bugün</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_h">Km/Sa</string>
+    <string name="unit_lbs">lbs</string>
+    <string name="unit_miles">Mil</string>
+    <string name="unit_mph">Mil/Sa</string>
+    <string name="unit_type">Metrik ve İngiliz Bir.</string>
+    <string name="walking_time">Yürüyüş Süresi</string>
+    <string name="week">Hafta</string>
+    <string name="weekly_steps">Haftalık Adım</string>
+    <string name="weight">Ağırlık</string>
+    <string name="weight_desc">Kalori hesaplamak için kullanılır</string>
+    <string name="notification_content">"Bugünkü adımlar şunlardır: &#160;"</string>
+
+
+
+    <string name="update_settings"> GÜNCELLEME AYARLARI </string>
+        
+    <string name="exercise"> Egzersiz </string>
+        
+    <string name="back_toast"> Programdan çıkmak için tekrar basın </string>
+        
+    <string name="enable"> Etkinleştir </string>
+        
+    <string name="confirm"> onayla </string>
+        
+    <string name="woluld_you_like_to_exit">%s \'den çıkmak ister misiniz ? </string>
+        
+    <string name="cancel"> iptal et </string>
+        
+    <string name="morning_dialog_content"> Sabah çalışmasına başlama zamanı. </string>
+        
+    <string name="stepgoal_dialog_content"> %s adım ilerleyin, gidin ve yakıcı kalorileri görün. </string>
+        
+    <string name="exercise_dialog_content"> Egzersiz zamanı egzersiz yapmaya başladığında. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> Egzersiz yapmaya git </string>
+
+</resources>

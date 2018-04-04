@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Шагомер</string>
+    <string name="btn_cancel">Отmeнa</string>
+    <string name="btn_confirm_ok">Ok</string>
+    <string name="daily_average">В среднем в день:</string>
+    <string name="female">Женский</string>
+    <string name="distance">Расст.</string>
+    <string name="gender">Пол</string>
+    <string name="gender_desc">Используется для вычисления размера шага</string>
+    <string name="gender_description">Используется для расчета калорий и шагов</string>
+    <string name="goal_ins_title">Цели по количеству шагов</string>
+    <string name="goal_with_value">Цель: %s</string>
+    <string name="height">Рост</string>
+    <string name="height_desc">Используется для расчета расстояния и скорости</string>
+    <string name="high">Высокий</string>
+    <string name="history">История</string>
+    <string name="kcal">Ккал</string>
+    <string name="male">Мужской</string>
+    <string name="month">Месяц</string>
+    <string name="more">Еще</string>
+    <string name="next">Далее</string>
+    <string name="pause">Пауза</string>
+    <string name="pedometer_preferences">Ваши настройки</string>
+    <string name="pg_permission_protect_app">Присоединить защищенное фоновое приложение</string>
+    <string name="pg_permission_dialog_sub_title">Чтобы %s работало правильно</string>
+    <string name="pg_permission_dialog_title">Требуется разрешение</string>
+    <string name="profile">Мой Профайл</string>
+    <string name="profile_description">Чтобы обеспечить точность, введите точную информацию. Мы никогда не будем раскрывать эту информацию третьим лицам.</string>
+    <string name="report">Отчет</string>
+    <string name="resume">Пpoдoлжить</string>
+    <string name="select_gender">Выберите пол</string>
+    <string name="sensitivity">Чувствительность</string>
+    <string name="setting">Настройки</string>
+    <string name="speed">Скорость</string>
+    <string name="start">Начало</string>
+    <string name="step">Шаг</string>
+    <string name="step_counter_notification">Панель уведомлений</string>
+    <string name="steps">Шаги</string>
+    <string name="tab_calorie">Калория</string>
+    <string name="tab_step">Шаг</string>
+    <string name="this_week">Эта неделя</string>
+    <string name="time">Время</string>
+    <string name="time_hour">ч.</string>
+    <string name="time_minute">м.</string>
+    <string name="time_second">с.</string>
+    <string name="today">Сегодня</string>
+    <string name="unit_cm">см.</string>
+    <string name="unit_feet">фут.</string>
+    <string name="unit_inch">дюйм.</string>
+    <string name="unit_kcal">Ккал</string>
+    <string name="unit_kg">кг</string>
+    <string name="unit_km">км</string>
+    <string name="unit_km_h">км/ч</string>
+    <string name="unit_lbs">фунт.</string>
+    <string name="unit_miles">Миля</string>
+    <string name="unit_mph">миль/ч</string>
+    <string name="unit_type">Метрические и британские единицы измерения</string>
+    <string name="walking_time">Время Ходьбы</string>
+    <string name="week">Неделя</string>
+    <string name="weekly_steps">Шаги за неделю</string>
+    <string name="weight">Вес</string>
+    <string name="weight_desc">Используется для расчета калорий</string>
+    <string name="notification_content">"Сегодняшние шаги &#160;"</string>
+
+
+
+
+
+    <string name="update_settings"> НАСТРОЙКИ ОБНОВЛЕНИЯ </string>
+        
+    <string name="exercise"> Упражнение </string>
+        
+    <string name="back_toast"> Нажмите еще раз, чтобы выйти из программы </string>
+        
+    <string name="enable"> Включить </string>
+        
+    <string name="confirm"> подтвердить </string>
+        
+    <string name="woluld_you_like_to_exit"> Вы хотите выйти из %s ? </string>
+        
+    <string name="cancel"> cancel </string>
+        
+    <string name="morning_dialog_content"> Пришло время начать утренний прогон. </string>
+        
+    <string name="stepgoal_dialog_content"> Пройдите %s шагов, идите в калории buring. </string>
+        
+    <string name="exercise_dialog_content"> Когда придет время для упражнений. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> GO Exercising </string>
+
+</resources>

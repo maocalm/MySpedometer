@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Pédomètre</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="btn_confirm_ok">OK</string>
+    <string name="daily_average">Moyenne quotidienne :</string>
+    <string name="female">Femme</string>
+    <string name="distance">Distance</string>
+    <string name="gender">Sexe</string>
+    <string name="gender_desc">Utilisé pour calculer la taille du pas</string>
+    <string name="gender_description">Utilisé pour calculer les calories et les étapes</string>
+    <string name="goal_ins_title">Objectif de pas</string>
+    <string name="goal_with_value">Objectif : %s</string>
+    <string name="height">Taille</string>
+    <string name="height_desc">Utilisé pour calculer la distance et la vitesse</string>
+    <string name="help">Aide</string>
+    <string name="high">Haute</string>
+    <string name="history">Chronologie</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Homme</string>
+    <string name="month">Mois</string>
+    <string name="more">Plus</string>
+    <string name="next">Suivant</string>
+    <string name="pause">Pause</string>
+    <string name="pedometer_preferences">Paramètres des préférences</string>
+    <string name="pg_permission_dialog_sub_title">"Pour s'assurer que %s fonctionne correctement"</string>
+    <string name="pg_permission_dialog_title">Permission requise</string>
+    <string name="profile">Mon Profil</string>
+    <string name="pg_permission_protect_app">Rejoignez l\'application de fond protégée</string>
+    <string name="profile_description">Pour assurer l\'exactitude, s\'il vous plaît entrer des informations précises. Nous ne divulguerons jamais ces informations à des tiers.</string>
+    <string name="report">Rapport</string>
+    <string name="resume">Reprendre</string>
+    <string name="setting">Paramètres</string>
+    <string name="select_gender">Sélectionner le sexe</string>
+    <string name="sensitivity">Sensibilité</string>
+    <string name="speed">Vitesse</string>
+    <string name="start">Commencer</string>
+    <string name="step">Pas</string>
+    <string name="step_counter_notification">Barre de notification</string>
+    <string name="steps">Pas</string>
+
+    <string name="tab_calorie">Calories</string>
+    <string name="tab_step">Pas</string>
+    <string name="this_week">Cette semaine</string>
+    <string name="time">Heure</string>
+    <string name="time_hour">h</string>
+    <string name="time_minute">m</string>
+    <string name="time_second">s</string>
+    <string name="today">"Aujourd'hui"</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_h">Km/H</string>
+    <string name="unit_lbs">lbs</string>
+    <string name="unit_miles">Mile</string>
+    <string name="unit_mph">MPH</string>
+    <string name="unit_type">Unité de mesure</string>
+    <string name="walking_time">Temps de marche</string>
+    <string name="week">Sem.</string>
+    <string name="weekly_steps">Pas hebdomadaires</string>
+    <string name="weight">Poids</string>
+    <string name="weight_desc">Utilisé pour calculer les calories</string>
+    <string name="notification_content">"Les étapes d'aujourd'hui sont  &#160;"</string>
+
+
+
+
+    <string name="update_settings"> MISE À JOUR PARAMÈTRES </string>
+        
+    <string name="exercise"> Exercice </string>
+        
+    <string name="back_toast"> Appuyez à nouveau pour quitter le programme </string>
+        
+    <string name="enable"> Activer </string>
+        
+    <string name="confirmer"> confirmer </string>
+        
+    <string name="woluld_you_like_to_exit"> Voulez-vous quitter %s ? </string>
+        
+    <string name="annuler"> annuler </string>
+        
+    <string name="morning_dialog_content"> Il est temps de commencer la course du matin. </string>
+        
+    <string name="stepgoal_dialog_content"> Marchez %s pas, allez voir les calories qui se bousculent. </string>
+        
+    <string name="exercise_dialog_content"> Quand il est temps de commencer à faire de l\'exercice. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> Exercice GO </string>
+</resources>

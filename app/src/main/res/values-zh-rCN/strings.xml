@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计步器</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_confirm_ok">确定</string>
+    <string name="daily_average">日平均值:</string>
+    <string name="distance">距离</string>
+    <string name="female">女</string>
+    <string name="gender">性别</string>
+    <string name="goal_ins_title">目标步数</string>
+    <string name="goal_with_value">目标：%s</string>
+    <string name="height">身高</string>
+    <string name="high">高</string>
+    <string name="history">历史记录</string>
+    <string name="kcal">千卡</string>
+    <string name="male">男</string>
+    <string name="month">月</string>
+    <string name="more">更多</string>
+    <string name="next">下一页</string>
+    <string name="pause">暂停</string>
+    <string name="update_settings">更新设置</string>
+    <string name="gender_description">用来计算卡路里和步长</string>
+    <string name="height_desc">用来计算距离和速度</string>
+    <string name="gender_desc">用来计算步长</string>
+    <string name="weight_desc">用来计算卡路里</string>
+    <string name="profile_description">为确保准确性，请输入准确信息。 我们绝不会将此信息披露给第三方。</string>
+    <string name="pg_permission_dialog_sub_title">确保%s正常运行</string>
+    <string name="pg_permission_protect_app">加入受保护的后台应用</string>
+    <string name="pg_permission_dialog_title">需要的权限</string>
+    <string name="profile">个人资料</string>
+    <string name="report">报告</string>
+    <string name="resume">继续</string>
+    <string name="select_gender">请选择性别</string>
+    <string name="sensitivity">敏感度</string>
+    <string name="setting">设置</string>
+    <string name="speed">速度</string>
+    <string name="start">开始</string>
+    <string name="step">步</string>
+    <string name="step_counter_notification">通知栏</string>
+    <string name="steps">步</string>
+    <string name="pedometer_preferences">偏好设置</string>
+    <string name="tab_calorie">卡路里</string>
+    <string name="tab_step">步数</string>
+    <string name="this_week">本周</string>
+    <string name="time">时间</string>
+    <string name="time_hour">时</string>
+    <string name="time_minute">分</string>
+    <string name="time_second">秒</string>
+    <string name="today">今天</string>
+    <string name="unit_cm">厘米</string>
+    <string name="unit_feet">英尺</string>
+    <string name="unit_inch">英寸</string>
+    <string name="unit_kcal">千卡</string>
+    <string name="unit_kg">千克</string>
+    <string name="unit_km">千米</string>
+    <string name="unit_km_h">千米/小时</string>
+    <string name="unit_lbs">磅</string>
+    <string name="unit_miles">英里</string>
+    <string name="unit_mph">英里/小时</string>
+    <string name="unit_type">公制和英制单位</string>
+    <string name="walking_time">步行时间</string>
+    <string name="week">周</string>
+    <string name="weekly_steps">本周步数</string>
+    <string name="weight">体重</string>
+    <string name="notification_content">"今天的步数是 &#160;"</string>
+
+
+
+        
+    <string name="exercise">练习</string>
+        
+    <string name="back_toast">再次按下退出程序</string>
+        
+    <string name="enable">启用</string>
+        
+    <string name="confirm">确认</string>
+        
+    <string name="woluld_you_like_to_exit">你想退出 %s 吗 ?</string>
+        
+    <string name="cancel"> cancel </string>
+        
+    <string name="morning_dialog_content">是时候开始晨跑了。</string>
+        
+    <string name="stepgoal_dialog_content">走了 %s 步，去看看燃烧卡路里。</string>
+        
+    <string name="exercise_dialog_content">当锻炼开始锻炼时。</string>
+        
+    <string name="detail">详情</string>
+        
+    <string name="go_exercising"> 去锻炼</string>
+</resources>

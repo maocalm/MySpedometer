@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Krokoměr</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="btn_confirm_ok">OK</string>
+
+    <string name="daily_average">Denní průměr:</string>
+    <string name="distance">Vzdálenost</string>
+    <string name="female">Žena</string>
+    <string name="gender">Pohlaví</string>
+    <string name="gender_desc">Používá se pro výpočet velikosti kroku</string>
+    <string name="gender_description">Používá se k výpočtu kalorií a kroků</string>
+    <string name="goal_ins_title">Počet kroků, které chci urazit</string>
+    <string name="goal_with_value">Cíl: %s</string>
+    <string name="height">Výška</string>
+    <string name="height_desc">Používá se pro výpočet vzdálenosti a rychlosti</string>
+    <string name="high">Vysoká</string>
+    <string name="history">Časová osa</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Muž</string>
+    <string name="month">Měsíc</string>
+    <string name="more">Více</string>
+    <string name="next">Další</string>
+    <string name="pause">Pauza</string>
+    <string name="pedometer_preferences">Nastavení předvoleb</string>
+    <string name="pg_permission_dialog_sub_title">Abyste měli jistotu, že %s funguje správně</string>
+    <string name="pg_permission_dialog_title">Je zapotřebí oprávnění</string>
+    <string name="pg_permission_protect_app">Připojte se k chráněné pozadí </string>
+    <string name="profile">Můj profil</string>
+    <string name="profile_description">Chcete-li zajistit přesnost, zadejte prosím přesné informace. Tyto informace nebudeme nikdy předávat třetím osobám.</string>
+    <string name="report">Přehled</string>
+    <string name="resume">Obnovit</string>
+    <string name="select_gender">Zvolte pohlaví</string>
+    <string name="sensitivity">Citlivost</string>
+    <string name="setting">Nastavení</string>
+
+    <string name="speed">Rychlost</string>
+    <string name="start">Start</string>
+    <string name="step">Krok</string>
+    <string name="step_counter_notification">Panel oznámení</string>
+    <string name="steps">Kroků</string>
+    <string name="tab_calorie">Kalorie</string>
+    <string name="tab_step">Krok</string>
+    <string name="this_week">Tento týden</string>
+    <string name="time">Čas</string>
+    <string name="time_hour">hod.</string>
+    <string name="time_minute">min.</string>
+    <string name="time_second">sek.</string>
+    <string name="tips">Tipy</string>
+    <string name="today">Dnes</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_h">Km/hod.</string>
+    <string name="unit_lbs">lb</string>
+    <string name="unit_miles">Míle</string>
+    <string name="unit_mph">MPH</string>
+    <string name="unit_type">Metrické/imperiální jednotky</string>
+    <string name="walking_time">Doba chůze</string>
+    <string name="week">Týden</string>
+    <string name="weekly_steps">Kroky za týden</string>
+    <string name="weight">Váha</string>
+    <string name="weight_desc">Používá se k výpočtu kalorií</string>
+    <string name="notification_content">"Dnešní kroky jsou  &#160;"</string>
+
+    <string name="update_settings"> UPDATE SETTINGS </string>
+        
+    <string name="cvičení"> Cvičení </string>
+        
+    <string name="back_toast"> Opětovným stisknutím opustíte program </string>
+        
+    <string name="enable"> Povolit </string>
+        
+    <string name="potvrďte"> potvrďte </string>
+        
+    <string name="woluld_you_like_to_exit"> Chcete ukončit %s ? </string>
+        
+    <string name="zrušit"> zrušit </string>
+        
+    <string name="morning_dialog_content"> Je čas spustit ranní běh. </string>
+        
+    <string name="stepgoal_dialog_content"> Procházejte %s kroků, jděte a podívejte se na přírůstkové kalorie. </string>
+        
+    <string name="exercise_dialog_content"> Když je čas na cvičení začátku cvičení. </string>
+        
+    <string name="detail"> DETAIL </string>
+        
+    <string name="go_exercising"> GO Cvičení </string>
+</resources>

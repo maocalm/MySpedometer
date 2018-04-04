@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Bộ đếm bước</string>
+    <string name="btn_cancel">Huỷ</string>
+    <string name="btn_confirm_ok">Đồng ý</string>
+    <string name="daily_average">Trung bình hàng ngày:</string>
+    <string name="female">Nữ</string>
+    <string name="distance">Khoảng cách</string>
+    <string name="gender">Giới tính</string>
+    <string name="gender_desc">Được sử dụng để tính toán kích thước bước</string>
+    <string name="gender_description">Được sử dụng để tính toán lượng calo và các bước</string>
+    <string name="goal_ins_title">Bước Mục tiêu</string>
+    <string name="goal_with_value">Mục tiêu: %s</string>
+    <string name="height">Chiều cao</string>
+    <string name="height_desc">Được sử dụng để tính khoảng cách và tốc độ</string>
+    <string name="high">Cao</string>
+    <string name="history">Dòng thời gian</string>
+    <string name="kcal">Kcal</string>
+    <string name="male">Nam</string>
+    <string name="month">Tháng</string>
+    <string name="more">Thêm</string>
+    <string name="next">Tiếp theo</string>
+    <string name="pause">Tạm dừng</string>
+    <string name="pedometer_preferences">Cài đặt ưu tiên</string>
+    <string name="pg_permission_protect_app">Tham gia ứng dụng nền được bảo vệ</string>
+    <string name="pg_permission_dialog_sub_title">Để chắc chắn %s hoạt động đúng</string>
+    <string name="pg_permission_dialog_title">Yêu cầu quyền truy cập</string>
+    <string name="profile">Hồ sơ của tôi</string>
+    <string name="profile_description">Để đảm bảo tính chính xác, vui lòng nhập thông tin chính xác. Chúng tôi sẽ không bao giờ tiết lộ thông tin này cho các bên thứ ba.</string>
+    <string name="report">Báo cáo</string>
+    <string name="setting">Cài đặt</string>
+    <string name="resume">Bắt đầu lại</string>
+    <string name="select_gender">Chọn giới tính</string>
+    <string name="sensitivity">Độ nhạy</string>
+    <string name="speed">Tốc độ</string>
+    <string name="start">Bắt đầu</string>
+    <string name="step">Bước</string>
+    <string name="step_counter_notification">Thanh thông báo</string>
+    <string name="steps">Các bước</string>
+    <string name="tab_calorie">Calo</string>
+    <string name="tab_step">Bước</string>
+    <string name="this_week">Tuần này</string>
+    <string name="time">Thời gian</string>
+    <string name="time_hour">h</string>
+    <string name="time_minute">m</string>
+    <string name="time_second">s</string>
+    <string name="today">Hôm nay</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_inch">in</string>
+    <string name="unit_kcal">Kcal</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_h">Km/H</string>
+    <string name="unit_lbs">Ibs</string>
+    <string name="unit_miles">Dặm</string>
+    <string name="unit_mph">MPH</string>
+    <string name="unit_type">Đơn vị mét và hoàng gia</string>
+    <string name="walking_time">Thời gian đi bộ</string>
+    <string name="week">Tuần</string>
+    <string name="weekly_steps">Các bước hàng tuần</string>
+    <string name="weight">Cân nặng</string>
+    <string name="weight_desc">Được sử dụng để tính toán lượng calo</string>
+    <string name="notification_content">"Các bước hiện nay là &#160;"</string>
+
+
+
+
+
+    <string name="update_settings"> UPDATE SETTINGS </string>
+        
+    <string name="exercise"> Tập thể dục </string>
+        
+    <string name="back_toast"> Nhấn lại để thoát chương trình </string>
+        
+    <string name="enable"> Kích hoạt </string>
+        
+    <string name="confirm"> xác nhận </string>
+        
+    <string name="woluld_you_like_to_exit"> Bạn có muốn thoát %s ? </string>
+        
+    <string name="cancel"> hủy </string>
+        
+    <string name="morning_dialog_content"> Đây là lúc bắt đầu buổi sáng. </string>
+        
+    <string name="stepgoal_dialog_content"> Đi bộ %s bước, đi xem calo thuần. </string>
+        
+    <string name="exercise_dialog_content"> Khi thời gian bắt đầu tập thể dục bắt đầu. </string>
+        
+    <string name="detail"> CHI TIẾT </string>
+        
+    <string name="go_exercising"> GO Tập thể dục </string>
+</resources>

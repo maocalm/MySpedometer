@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="btn_cancel">"anulat"</string>
+    <string name="btn_confirm_ok">"determina"</string>
+    <string name="app_name">"pedometru"</string>
+    <string name="daily_average">"medie zilnică:"</string>
+    <string name="female">"femeie"</string>
+    <string name="distance">"distanță"</string>
+    <string name="gender">"gen"</string>
+    <string name="gender_desc">Se utilizează pentru a calcula dimensiunea pasului</string>
+    <string name="gender_description">Se folosește pentru a calcula calorii și pași</string>
+    <string name="goal_ins_title">"Numărul țintă de pași"</string>
+    <string name="goal_with_value">"Obiectiv: %s"</string>
+    <string name="height">"înălțime"</string>
+    <string name="height_desc">Se utilizează pentru a calcula distanța și viteza</string>
+    <string name="high">"mare"</string>
+    <string name="history">"istorie"</string>
+    <string name="kcal">"kcal"</string>
+    <string name="male">"masculin"</string>
+    <string name="month">"lună"</string>
+    <string name="more">"mai mult"</string>
+    <string name="next">"Pagina următoare"</string>
+    <string name="pause">"pauză"</string>
+    <string name="pedometer_preferences">"Preferințe"</string>
+    <string name="profile">"Informații personale"</string>
+    <string name="profile_description">Pentru a vă asigura acuratețea, introduceți informații exacte. Nu vom dezvălui niciodată aceste informații unor terțe părți.</string>
+    <string name="pg_permission_dialog_sub_title">"Asigurați - vă că %s uptime"</string>
+    <string name="pg_permission_protect_app">Alăturați-vă aplicației de fundal protejate</string>
+    <string name="pg_permission_dialog_title">"permisiunile necesare"</string>
+    <string name="report">"raport"</string>
+    <string name="resume">"continua"</string>
+    <string name="select_gender">"Vă rugăm să selectați sexul"</string>
+    <string name="setting">"Configurarea"</string>
+    <string name="sensitivity">"sensibilitate"</string>
+    <string name="speed">"viteză"</string>
+    <string name="start">"începe"</string>
+    <string name="step">"pas"</string>
+    <string name="step_counter_notification">"bară de notificare"</string>
+    <string name="steps">"pas"</string>
+    <string name="tab_calorie">"calorii"</string>
+    <string name="tab_step">"Numărul de trepte"</string>
+    <string name="this_week">"În această săptămână"</string>
+    <string name="time">"timp"</string>
+    <string name="time_hour">"când"</string>
+    <string name="time_minute">"divide"</string>
+    <string name="time_second">"în al doilea rând"</string>
+    <string name="today">"azi"</string>
+    <string name="unit_cm">"cm"</string>
+    <string name="unit_feet">"picior"</string>
+    <string name="unit_inch">"inch"</string>
+    <string name="unit_kcal">"kcal"</string>
+    <string name="unit_kg">"kilogram"</string>
+    <string name="unit_km">"Km"</string>
+    <string name="unit_km_h">"Km / h"</string>
+    <string name="unit_lbs">"livră"</string>
+    <string name="unit_miles">"milă"</string>
+    <string name="unit_mph">"Miles / oră"</string>
+    <string name="unit_type">"unități metrice și imperiale"</string>
+    <string name="walking_time">"timp de mers"</string>
+    <string name="week">"Zhou"</string>
+    <string name="weekly_steps">"Numărul de pași în această săptămână"</string>
+    <string name="weight">"greutate"</string>
+    <string name="weight_desc">Folosit pentru a calcula calorii</string>
+    <string name="notification_content">"Numărul pas de astăzi este  "</string>
+
+
+
+
+    <string name="update_settings"> SETĂRI UPDATE </string>
+        
+    <string name="exercise"> Exercițiu </string>
+        
+    <string name="back_toast"> Apăsați din nou pentru a ieși din program </string>
+        
+    <string name="enable"> Enable </string>
+        
+    <string name="confirm"> confirmați </string>
+        
+    <string name="woluld_you_like_to_exit"> Doriți să ieșiți din %s ? </string>
+        
+    <string name="cancel"> anulați </string>
+        
+    <string name="morning_dialog_content"> E timpul să începeți execuția dimineața. </string>
+        
+    <string name="stepgoal_dialog_content"> Plimbati %s de pasi, mergeti si vedeti caloriile de adaos. </string>
+        
+    <string name="exercise_dialog_content"> Când este timpul pentru exercițiul de la începutul exercițiului. </string>
+        
+    <string name="detail"> DETALIU </string>
+        
+    <string name="go_exercising"> GO Exercise </string>
+</resources>
